@@ -3,6 +3,11 @@
 #### Мы рады видеть Вас в нашем репозитории бота-консультанта. С его помощью вы сможете без труда найти себе работу или подработку.
 
 ### *Использованные библиотеки:*
+#### **В нашем боте были использованы такие библиотеки, как:**
 
-+ [Telebot](https://pytba.readthedocs.io/ru/latest/index.html#welcome-to-pytelegrambotapi-s-documentation)
++ [TeleBot](https://pytba.readthedocs.io/ru/latest/index.html#welcome-to-pytelegrambotapi-s-documentation)
++ [InlineKeyboardButton](https://docs.python-telegram-bot.org/en/stable/telegram.inlinekeyboardbutton.html)
 + [Inline Keyboard Markup](https://docs.python-telegram-bot.org/en/v22.1/telegram.inlinekeyboardmarkup.html)
++ [ReplyKeyboardMarkup](https://docs.python-telegram-bot.org/en/stable/telegram.replykeyboardmarkup.html)
++ [KeyboardButton](https://docs.python-telegram-bot.org/en/stable/telegram.keyboardbutton.html)
++ [SQLite3](https://docs.python.org/3/library/sqlite3.html)
