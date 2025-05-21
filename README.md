@@ -11,3 +11,11 @@
 + [ReplyKeyboardMarkup](https://docs.python-telegram-bot.org/en/stable/telegram.replykeyboardmarkup.html)
 + [KeyboardButton](https://docs.python-telegram-bot.org/en/stable/telegram.keyboardbutton.html)
 + [SQLite3](https://docs.python.org/3/library/sqlite3.html)
++ [Types](https://pytba.readthedocs.io/ru/latest/types.html)
+
+### *Список команд бота-консультанта:*
+
+***/advice*** - Даёт совет, основываясь на ваших предпочтениях;
+/job_list - Отправляет пользователю список самых популярных профессий;
+/salary_list - Отправляет список самых высоко оплачиваемых профессий;
+/places_list - Отправляет список мест для подработки.
